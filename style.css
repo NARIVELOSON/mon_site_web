@@ -1,3 +1,13 @@
 h1{
     color:red;
 }
+.corps{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+    padding: 20px;
+}
+p{
+    color: white;
+}
